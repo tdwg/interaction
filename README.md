@@ -2,7 +2,7 @@
 
 This repository is designated to organize, collect, share and discuss species interaction data. The main objectives of the interaction data group at this initial work comtemplate the follow elements:
 
-* ** List of what is avaible: **
+* **List of what is avaible:**
   * Data aggreagator [e.g. GloBI] (http://www.globalbioticinteractions.org).
   * Standalone system.
 * ** Interaction Data: **
