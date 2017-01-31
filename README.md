@@ -1,22 +1,11 @@
 # Species Interaction Data Group
 
-This repository is designated to organize, collect, share and discuss species interaction data. The main objectives of the interaction data group at this initial work contemplate the follow elements:
+This repository has been set up for those interested in discussing biodiversity interaction data aiming at developing a data standard under the Biodiversity Information Standards (TDWG) umbrella.
+After a meeting held during the TDWG Conference in Costa Rica, on the 6/Dec/2016, this group was proposed and presented to the TDWG community at the closing session.
+Since it is not yet a formal TDWG group we will work under this BioComp-USP GitHub repository, and we will move to TDWG repository as soon as we have an Interest Group on Interaction Data approved by the TDWG exec.
 
-* **List of what is avaible:**
-  * Data aggreagator [e.g. GloBI] (http://www.globalbioticinteractions.org).
-  * Standalone system.
-* **Interaction Data:**
-  * Biotic factors of interaction data.
-  * Abiotic factors of interaction data.
-* **Definitions:**
-  * Set of very basic definitions.
-  * Ontologies [e.g. https://github.com/jhpoelen/eol-globi-data/wiki/Ontologies-and-Vocabularies] (https://github.com/jhpoelen/eol-globi-data/wiki/Ontologies-and-Vocabularies).
-* **Species interaction granularity:**
-  * What level? Taxa level x Individual level.
-  * What types of ecological interactions? Symbosis, competition, comensalism, parasitism, etc. OR behavoural description of interaction: visiting flower, eats a prey, inhibition of grow, etc.
-* **Interactions for all taxa:**
-  * Microorganisms x Macroscopic organisms?
-  * Viruses?
-* **Data Formats - Standards:**
-  * What is necessary to digitize interaction data?
-  * What is necessary to aggregate interaction data?
+Participation is open to all interested parties.
+
+[Notes from TDWG meeting at Costa Rica on 2015-12-06]({{ site.baseurl }}{% link docs/2016-12-06-notes-from-meeting-costa-rica.MD %})
+
+[List of resources of interest on Interaction Data]({{ site.baseurl }}{% link docs/list-of-resources-of-interest-on-Interaction-Data.md %})
