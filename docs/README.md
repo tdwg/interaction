@@ -1,10 +1,10 @@
 # Species Interaction Data Group
 
-This repository is designated to organize, collect, share and discuss species interaction data. The main objectives of the interaction data group at this initial work contemplate the follow elements:
+This repository is designated to organize, collect, share and discuss species interaction data. The main objectives of the interaction data group at this initial work contemplate the following elements:
 
 * **List of what is avaible:**
   * Data aggreagator [e.g. GloBI] (http://www.globalbioticinteractions.org).
-  * Standalone system.
+  * Standalone systems.
 * **Interaction Data:**
   * Biotic factors of interaction data.
   * Abiotic factors of interaction data.
