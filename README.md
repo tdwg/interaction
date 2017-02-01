@@ -13,3 +13,5 @@ Participation is open to all interested parties.
 [Notes from TDWG meeting at Costa Rica on 2015-12-06]({{ site.baseurl }}{% link docs/2016-12-06-notes-from-meeting-costa-rica.MD %})
 
 [List of resources of interest on Interaction Data]({{ site.baseurl }}{% link docs/list-of-resources-of-interest-on-Interaction-Data.md %})
+
+[Shared References](https://www.zotero.org/groups/interaction_data)
