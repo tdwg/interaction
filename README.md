@@ -1,3 +1,7 @@
+---
+title: Species Interaction Data Group
+---
+
 # Species Interaction Data Group
 
 This repository has been set up for those interested in discussing biodiversity interaction data aiming at developing a data standard under the Biodiversity Information Standards (TDWG) umbrella.
