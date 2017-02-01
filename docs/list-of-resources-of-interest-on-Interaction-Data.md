@@ -3,8 +3,8 @@
 ## We will list here links to websites, projects, documents related to Interaction Data
 
 ## Projects
-- http://www.biocomp.org.br/iabinptn/
-- http://www.globalbioticinteractions.org/
+- [IABIN Pollinators Thematic Network](http://www.biocomp.org.br/iabinptn)
+- [Global Biotic Interactions (GloBI)](http://www.globalbioticinteractions.org)
 
 ## Documents (papers, theses, etc)
 -
