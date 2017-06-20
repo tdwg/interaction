@@ -55,6 +55,6 @@ The TDWG process requires that any new Task Group be launched through an Interes
  
  
 ## Resources
-- https://github.com/BioComp-USP/interaction-data-group[https://github.com/BioComp-USP/interaction-data-group]
+- https://github.com/BioComp-USP/interaction-data-group
 
 Since this is not yet a formal TDWG group we have been working under the BioComp-USP GitHub repository, and we will move to the TDWG repository as soon as we have an Interest Group on Interaction Data approved by the TDWG exec.
