@@ -6,17 +6,28 @@
 
 **Antonio Mauro Saraiva**
 
-Full Professor, Universidade de São Paulo, Escola Politécnica 
-Research Center on Biodiversity and Computing - BioComp. USP
-Av. Prof. Luciano Gualberto, travessa 3, nº 158, sala C2-56
-São Paulo, Brazil
- Email: saraiva(at)usp.br
- 
-**Convernior #2**
 
-Affiliation
-Address
-Email:
+Full Professor, Universidade de São Paulo, Escola Politécnica 
+
+Research Center on Biodiversity and Computing - BioComp. USP
+
+Av. Prof. Luciano Gualberto, travessa 3, nº 158, sala C2-56
+
+São Paulo, Brazil
+
+Email: saraiva(at)usp.br
+ 
+ 
+**Jen Hammock**
+
+
+Project Manager, Encyclopedia of Life, Smithsonian
+
+National Museum of Natural History, MRC #106
+
+10th St. & Constitution Ave. NW, Washington, D.C. 20560, USA
+
+hammockj(at)si.edu
 
 ## Core Members
 
