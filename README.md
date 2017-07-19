@@ -29,4 +29,4 @@ Participation is open to all interested parties.
 
 [List of resources of interest on Interaction Data]({{ site.baseurl }}{% link docs/list-of-resources-of-interest-on-Interaction-Data.md %})
 
-[Shared References](https://www.zotero.org/groups/interaction_data) *External (Zotero.org)
+[Shared References](https://www.zotero.org/groups/1554696/interaction_data) *External (Zotero.org)
