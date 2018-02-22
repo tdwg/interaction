@@ -31,24 +31,24 @@ hammockj(at)si.edu
 
 ## Core Members
 
-**Anne Thessen** - Ronin Institute
-**Annie Simpson** - US Geological Survey
-**Antonio Mauro Saraiva** - Universidade de São Paulo
-**Chris Mungall** - Lawrence Berkeley Laboratory
-**Dmitry Schigel** - Global Biodiversity Information Facility (GBIF), Secretariat
-**Francisco Pando** - Real Jardín Botánico,  CSIC
-**Jennifer Hammock** - Encyclopedia of Life, Smithsonian Institution
-**John Wiezorek** - University of California, Berkeley
-**Jorrit Poelen** - Global Biotic Interactions
-**José Augusto Salim** - Universidade de São Paulo
-**Juliana Saragiotto Silva** - Instituto Federal de Mato Grosso
-**Katja Schulz** - Smithsonian Institution
-**Prabha Prabhakar** - Strand Life Sciences
-**Quentin Groom** - Botanic Garden Meise
-**Remy Jomier** -   Service du Patrimoine Naturel
-**Willem Coetzer** - South Africa  Inst Aquatic Biodiversity
+**Anne Thessen** - Ronin Institute  
+**Annie Simpson** - US Geological Survey  
+**Antonio Mauro Saraiva** - Universidade de São Paulo  
+**Chris Mungall** - Lawrence Berkeley Laboratory  
+**Dmitry Schigel** - Global Biodiversity Information Facility (GBIF), Secretariat  
+**Francisco Pando** - Real Jardín Botánico,  CSIC  
+**Jennifer Hammock** - Encyclopedia of Life, Smithsonian Institution  
+**John Wiezorek** - University of California, Berkeley  
+**Jorrit Poelen** - Global Biotic Interactions  
+**José Augusto Salim** - Universidade de São Paulo  
+**Juliana Saragiotto Silva** - Instituto Federal de Mato Grosso  
+**Katja Schulz** - Smithsonian Institution  
+**Prabha Prabhakar** - Strand Life Sciences  
+**Quentin Groom** - Botanic Garden Meise  
+**Remy Jomier** -   Service du Patrimoine Naturel  
+**Willem Coetzer** - South Africa  Inst Aquatic Biodiversity  
 
-## Summary
+## Summary 
 
 Scientists use a variety of methods to collect, record, and store biological interaction data, that include predator-prey, parasite-host, pollinator-plant, among others. Uses for those data are equally diverse, as they are collected primarily to answer different scientific questions. Biological interaction data can be very important in other situations and domains. For example, they could play an important role in building decision support systems for conservation and sustainable use in agriculture. 
 Despite of their importance, a very limited amount of biological interaction data is available online, especially if compared to the amount of data registers available on occurrence data portals, which have been boosted by the development and adoption of a data standard, the Darwin Core. Numerous efforts are underway to aggregate, organize, and efficiently disseminate biological interaction data. However, we lack a formal data standard to support that work.
