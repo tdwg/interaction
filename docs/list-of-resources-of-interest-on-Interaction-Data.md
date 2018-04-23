@@ -21,6 +21,7 @@
 - [Avian Diet Database](https://github.com/hurlbertlab/dietdatabase)
 - [Ecological-Database-of-the-World-s-Insect-Pathogens](http://cricket.inhs.uiuc.edu/edwipweb/edwipabout.htm)
 - [US National Parasite Collection](http://invertebrates.si.edu/parasites.htm)
+- [Database of trophic interactions](https://sites.google.com/site/foodwebsdatabase/)
 
 
 ## Documents (papers, theses, etc)
