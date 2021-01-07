@@ -4,7 +4,7 @@
 
 ## Projects
 - [IABIN Pollinators Thematic Network](http://www.biocomp.org.br/iabinptn)
-- [Global Biotic Interactions (GloBI)](http://www.globalbioticinteractions.org)F
+- [Global Biotic Interactions (GloBI)](http://www.globalbioticinteractions.org)
 - TAXREF associated knowledge database list (see in ## Used lists)
 - [Natural History Museum Interaction Bank](http://data.nhm.ac.uk/dataset/nhm-ib) 
 - [Web of Life](http://web-of-life.es)
