@@ -24,8 +24,10 @@
 - [Database of trophic interactions](https://sites.google.com/site/foodwebsdatabase/)
 
 
-## Documents (papers, theses, etc)
--
+## Documents (papers, theses, webpages, etc)
+- GloBI data sources: [https://globalbioticinteractions.org/sources](https://globalbioticinteractions.org/sources)
+- GloBI blog post covers some of the many ways folks share their data: [https://www.globalbioticinteractions.org/2018/08/16/models-in-fashion/](https://www.globalbioticinteractions.org/2018/08/16/models-in-fashion/)
+- The Relations Ontology (RO) captures many species interaction terms (e.g., [purl.obolibrary.org/obo/RO_0002455](purl.obolibrary.org/obo/RO_0002455))
 
 ## Used Lists
 * France:
