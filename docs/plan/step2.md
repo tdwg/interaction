@@ -43,34 +43,34 @@ The analysis of the datasets were conducted in order to understand how people or
 
 ### Datasets by Year of Publication
 
-![Datasets by Year](/resources/images/dataset-years.png)
+![Datasets by Year](/docs/resources/images/dataset-years.png)
 
 ### Datasets Keywords
 
-![Dataset keywords](/resources/images/wc-keywords.png)
+![Dataset keywords](/docs/resources/images/wc-keywords.png)
 
 ### Repositores
 
-![Dataset repositories](/resources/images/dataset-repos.png)
+![Dataset repositories](/docs/resources/images/dataset-repos.png)
 
 ### File Formats
 
-![Dataset formats](/resources/images/dataset-format.png)
+![Dataset formats](/docs/resources/images/dataset-format.png)
 
 ### Structure/Schema
 
-![Dataset schema](/resources/images/dataset-schemas.png)
+![Dataset schema](/docs/resources/images/dataset-schemas.png)
 
 ### Interaction Level
 
-![Dataset interaction level](/resources/images/dataset-interaction-level.png)
+![Dataset interaction level](/docs/resources/images/dataset-interaction-level.png)
 
 ### Topic Modelling
 
-![TM k 4](/resources/images/tm-k-4.png)
+![TM k 4](/docs/resources/images/tm-k-4.png)
 
 ### Darwin Core Archives
 
 Proportion of DwC-A that uses **associatedTaxa**, **associatedOccurrences** and **ResourceRelationship**. Data were not investigated in order to verify if interaction information are given using this terms/class. It just summarizes the proportion of DwC-A which have non-empty values of any of those terms/class.
 
-![DwCA terms](/resources/images/dwca-chart.png)
+![DwCA terms](/docs/resources/images/dwca-chart.png)
