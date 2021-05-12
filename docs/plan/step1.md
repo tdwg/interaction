@@ -34,6 +34,6 @@ The main goal on this step is to collaborative create a robust definition of *bi
 
 ## References
 
-<p name="nakazawa-2020">Nakazawa, T. Species interaction: Revisiting its terminology and concept. Ecological Research. 2020; 35: 1106– 1113. [https://doi.org/10.1111/1440-1703.12164](https://doi.org/10.1111/1440-1703.12164)</p>
+<p name="nakazawa-2020">Nakazawa, T. Species interaction: Revisiting its terminology and concept. Ecological Research. 2020; 35: 1106– 1113.</p> [https://doi.org/10.1111/1440-1703.12164](https://doi.org/10.1111/1440-1703.12164)
 
-<p name="united-nations-1997">United Nations, Glossary of Environment Statistics, Studies in Methods, Series F, No. 67, United Nations, New York, 1997. Url: [https://unstats.un.org/unsd/environmentgl/](https://unstats.un.org/unsd/environmentgl/)</p>
+<p name="united-nations-1997">United Nations, Glossary of Environment Statistics, Studies in Methods, Series F, No. 67, United Nations, New York, 1997.</p> Url: [https://unstats.un.org/unsd/environmentgl/](https://unstats.un.org/unsd/environmentgl/)
