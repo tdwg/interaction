@@ -58,4 +58,5 @@ hammockj(at)si.edu
 - Quentin Groom - Botanic Garden Meise
 - Remy Jomier -   Service du Patrimoine Naturel
 - Willem Coetzer - South Africa  Inst Aquatic Biodiversity
-
+- Debora Drucker - Brazilian Agricultural Research Corporation (EMBRAPA)
+- Filipi Soares - Universidade de São Paulo
