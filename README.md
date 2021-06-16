@@ -1,4 +1,4 @@
-# Species Interaction Data Group
+# TDWG Biological Interaction Data Interest Group
 
 ## Rationale
 
@@ -22,7 +22,7 @@ A mailing list resource will be provided soon. Meanwhile, click in "Watch" and s
 
 Participation is open to all interested parties.
 
-We have regular virtual meetings scheduled to happen every 15 days. If you are interested in participating, please, send an email to [joseasalim@usp.br](mailto:joseasalim@usp.br) so that your is name added to the list of participants.
+We have regular virtual meetings scheduled to happen every **15 days**. If you are interested in participating, please, send an email to [joseasalim@usp.br](mailto:joseasalim@usp.br) so that your is name added to the list of participants. Additionally, we encorage any new incomer to join our [TDWG Biological Interaction Data Group](https://groups.google.com/g/tdwg-interaction).
 
 ## Resources
 
@@ -60,3 +60,4 @@ hammockj(at)si.edu
 - Willem Coetzer - South Africa  Inst Aquatic Biodiversity
 - Debora Drucker - Brazilian Agricultural Research Corporation (EMBRAPA)
 - Filipi Soares - Universidade de São Paulo
+- Fransciso E. Fonturbel - Pontificia Universidad Católica de Valparaíso 
