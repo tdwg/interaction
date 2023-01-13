@@ -9,10 +9,10 @@ After a meeting held during the TDWG Conference in Costa Rica, on the 6/Dec/2016
 ## Planned steps
 
 1. Figure out and use a robust theory of biological interactions, including food webs and network ecology concepts. [PLAN_STEP_1](docs/plan/step1.md)
-2. Landscaping review: collect information of available resources about species interaction data, study cases and *standard* development, creating a list and providing a detailed description of funcionalities, advantages and disadvantages of each resource. [PLANT_STEP_2](docs/plan/step2.md)
-3. Share bibliography references (articles, reports, documents etc.) between collaborators to enrich discussions and promote a standarization of species data.[PLANT_STEP_3](docs/plan/step3.md)
-3. Create a **core** standard for species interaction data. [PLAN_STEP_4](docs/step4.md)
-4. Development of conceptal models for data centralisation and aggregation. [PLANT_STEP_5](docs/plan/step5.md)
+2. Landscaping review: collect information of available resources about species interaction data, study cases and *standard* development, creating a list and providing a detailed description of funcionalities, advantages and disadvantages of each resource. [PLAN_STEP_2](docs/plan/step2.md)
+3. Share bibliography references (articles, reports, documents etc.) between collaborators to enrich discussions and promote a standarization of species data.[PLAN_STEP_3](docs/plan/step3.md)
+3. Create a **core** standard for species interaction data. [PLAN_STEP_4](docs/plan/step4.md)
+4. Development of conceptal models for data centralisation and aggregation. [PLAN_STEP_5](docs/plan/step5.md)
 
 ## How to contribute
 
