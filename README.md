@@ -51,7 +51,7 @@ hammockj(at)si.edu
 - Jennifer Hammock - Encyclopedia of Life
 - John Wiezorek - University of California, Berkeley
 - Jorrit Poelen - Global Biotic Interactions
-- José Augusto Salim - Universidade de São Paulo
+- José Augusto Salim - Universidade Estadual de Campinas
 - Juliana Saragiotto Silva - Instituto Federal de Mato Grosso
 - Katja Schulz - Smithsonian Institution
 - Prabha Prabhakar - Strand Life Sciences
